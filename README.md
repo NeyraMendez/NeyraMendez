@@ -33,12 +33,7 @@ Aplicación para control de inventario, facturación y ventas.
 ### 🔹 Servidor Web en Linux
 Instalación y configuración de Apache en entorno local.
 
----
 
-## 📊 Estadísticas de GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
 
 ---
 
@@ -48,4 +43,3 @@ Instalación y configuración de Apache en entorno local.
 
 ---
 
-⭐ Siempre aprendiendo cosas nuevas.
