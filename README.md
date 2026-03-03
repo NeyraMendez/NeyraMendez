@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hola, soy Neyra
 
-<!--
-**NeyraMendez/NeyraMendez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Estudiante de Ingeniería en Sistemas
+Apasionada por el desarrollo de software, redes y sistemas operativos.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías que utilizo
+
+| Lenguaje | Nivel | Uso |
+|----------|--------|------|
+| Python   | Intermedio | Scripts y automatización |
+| C++      | Básico | Programación estructurada |
+| HTML     | Intermedio | Desarrollo web |
+| MySQL    | Básico | Bases de datos |
+
+---
+
+## 🛠 Herramientas
+
+- Git & GitHub
+- Linux
+- Apache
+- VS Code
+
+---
+
+## 📌 Proyectos Destacados
+
+### 🔹 Sistema de Tienda Deportiva
+Aplicación para control de inventario, facturación y ventas.
+
+### 🔹 Servidor Web en Linux
+Instalación y configuración de Apache en entorno local.
+
+---
+
+## 📊 Estadísticas de GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact)
+
+---
+
+## 📫 Contacto
+
+- Email: l23212030@tectijuana.edu.mx
+
+---
+
+⭐ Siempre aprendiendo cosas nuevas.
