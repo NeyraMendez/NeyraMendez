@@ -1,7 +1,7 @@
 # 👋 Hola, soy Neyra
 
 ## 🎓 Estudiante de Ingeniería en Sistemas
-Apasionada por el desarrollo de software, redes y sistemas operativos.
+Apasionado por el desarrollo de software, redes y sistemas operativos.
 
 ---
 
